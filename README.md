@@ -17,4 +17,6 @@
 ![screenshot](https://github.com/emrekorkmaz14/ToDoApp/blob/main/ekrangörüntüleri/5.png)
 ![screenshot](https://github.com/emrekorkmaz14/ToDoApp/blob/main/ekrangörüntüleri/6.png)
 ![screenshot](https://github.com/emrekorkmaz14/ToDoApp/blob/main/ekrangörüntüleri/7.png)
+![screenshot](https://github.com/emrekorkmaz14/ToDoApp/blob/main/ekrangörüntüleri/8.png)
+
 
