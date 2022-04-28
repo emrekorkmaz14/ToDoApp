@@ -7,3 +7,4 @@
 - firebase_auth
 - firebase_core
 - google_fonts
+- intl
