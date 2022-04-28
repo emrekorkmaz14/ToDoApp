@@ -1,4 +1,5 @@
 # ToDoApp
+- Firabase authentication is used in the application.
 
 # Used Packages
 - flutter_svg
