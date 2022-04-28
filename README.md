@@ -2,5 +2,8 @@
 - Design by me
 
 # Used Packages
-- flutter.svg
-- 
+- flutter_svg
+- google_sign_in
+- firebase_auth
+- firebase_core
+- google_fonts
