@@ -1,5 +1,7 @@
 # ToDoApp
-- Firabase authentication is used in app. Email password sign in and google sign in are integrated. All buttons in app perform their functions (login, logout, add task, delete task etc.).
+- Firabase authentication is used in app. 
+- Email password sign in and google sign in are integrated. 
+- All buttons in app perform their functions (login, logout, add task, delete task etc.).
 
 # Used Packages
 - flutter_svg
